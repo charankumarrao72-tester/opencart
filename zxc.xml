@@ -1,0 +1,25 @@
+
+
+
+<suite name="Suite">
+
+
+<test name="tests">
+<classes>
+<class name="pageObjects.HomePage.java"/>
+<class name="pageObjects.BasePage.java"/>
+<class name="pageObjects.AccountRegistration.java"/>
+<class name="testCases.TC001AccountRegistration.java"/>
+
+
+</classes>
+
+
+</test>
+
+
+</suite>
+
+
+
+
